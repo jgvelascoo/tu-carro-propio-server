@@ -7,7 +7,7 @@
   "type": "module",
   "scripts": {
     "start": "node index.js"
-    "start": "dev index.js"
+    "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "Jesus Velasco <jguillevelasco@gmail.com>",
